@@ -12,16 +12,16 @@ git clone
 
 3. After installing requirement run following command in cmd.
 Windows machine(For productuion use production):
-> set FLASK_APP=sudoku-app
-> set FLASK_ENV=development
-> flask init-db
-> flask run
+set FLASK_APP=sudoku-app
+set FLASK_ENV=development
+flask init-db
+flask run
 
 Linux machine:
-> export FLASK_APP=sudoku-app
-> export FLASK_ENV=development
-> flask init-db
-> flask run
+export FLASK_APP=sudoku-app
+export FLASK_ENV=development
+flask init-db
+flask run
 
 Bang
 4. Go the the Url and you are good to go with sudoku. (wohhooooo)
