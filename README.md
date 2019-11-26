@@ -11,6 +11,7 @@ git clone
 > pip install -r requirement.txt
 
 3. After installing requirement run following command in cmd.
+
 3.1 Windows machine(For productuion use production)
 1. set FLASK_APP=sudoku-app
 2. set FLASK_ENV=development
